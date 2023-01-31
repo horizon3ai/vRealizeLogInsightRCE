@@ -1,5 +1,5 @@
 # VMSA-2023-0001
-POC for VMSA-2023-0001 affecting VMware vRealize Log Insight which includes the following CVEsl:
+POC for VMSA-2023-0001 affecting VMware vRealize Log Insight which includes the following CVEs:
 * VMware vRealize Log Insight Directory Traversal Vulnerability (CVE-2022-31706)
 * VMware vRealize Log Insight broken access control Vulnerability (CVE-2022-31704)
 * VMware vRealize Log Insight contains an Information Disclosure Vulnerability (CVE-2022-31711)
